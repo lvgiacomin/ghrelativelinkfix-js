@@ -6,5 +6,5 @@ This initial version doesn't cover links to directories, only to files.
 
 This is a link to [COPYING teste.md](COPYING%20teste.md) file.
 
-This is a link to [image/README.md](images/README.md) file
+This is a link to [image/README.md](image/README.md) file
 
